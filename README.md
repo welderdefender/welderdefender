@@ -13,8 +13,7 @@ JavaAdept welder = new JavaAdept();
         welder.telegram = "@welderdefender";
 ```
 
-<details>
-<summary>⚡️ Посмотреть мою статистику</summary>
+## Моя статистика
 <p align="center">
   <table>
   <tr>
@@ -23,4 +22,3 @@ JavaAdept welder = new JavaAdept();
   </tr>   
 </table>
 </p>
-</details>
