@@ -7,7 +7,7 @@
 ```java
 JavaAdept welder = new JavaAdept();
         welder.name = "Aleks"; 
-        welder.age = 33;
+        welder.age = 34;
         welder.language = "Java";
         welder.telegram = "@welderdefender";
 ```
